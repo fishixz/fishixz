@@ -7,7 +7,7 @@ e sou um programador em aprendizado, buscando aprimorar meus conhecimentos em IA
 - 🤖 Também adoro escrever. Por exemplo, já tentei criar diversos Bots de interação, porém sempre encontrei desafios ao não me aprofundar em criar APIs, e estou atualmente precisando desenvolver um bot, mas ainda não obtive sucesso nessa empreitada.
   
 <div align="center">
-<a href="https://magazine.sebastianraschka.com"> <img src="figures/ahead-of-ai-logo.jpg" alt="Logo Ahead of AI" height="60px"></a></div>
+<a href="https://www.dche.ufscar.br/documentos/imagens/logo-ufscar.png/image_view_fullscreen"> <img src="figures/ahead-of-ai-logo.jpg" alt="Logo Ahead of AI" height="60px"></a></div>
 
 ---
 
