@@ -1,4 +1,4 @@
-### Olá, meu nome é Goldz 👋
+### Olá, meu nome é Fishixz 👋
 
 e sou um programador em aprendizado, buscando aprimorar meus conhecimentos em IA, com uma paixão intensa pela programação!
 
