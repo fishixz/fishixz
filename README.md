@@ -11,7 +11,7 @@ e sou um programador em aprendizado, buscando aprimorar meus conhecimentos em IA
 
 ---
 
-Se você estiver interessado em mais detalhes, confira [meu site](https://sebastianraschka.com)!
+Se você estiver interessado em mais detalhes, confira [meu perfil](https://github.com/fishixz)!
 
 #### Redes Sociais
 
