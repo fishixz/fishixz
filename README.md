@@ -16,4 +16,4 @@ Também sou um pouco ativo nas plataformas sociais abaixo!
 
 - 📸 Instagram [(@fishixz)](https://www.instagram.com/fishixz)
 - 👨‍💻 Twitter [(@fishixz)](https://twitter.com/fishixz)
-- 🖇️ Tiktok [@edyxluis](https://www.tiktok.com/@edyxluis)
+- 🖇️ Tiktok [(@edyxluis)](https://www.tiktok.com/@edyxluis)
