@@ -15,5 +15,5 @@ Se você estiver interessado em mais detalhes, confira [meu perfil](https://gith
 Também sou um pouco ativo nas plataformas sociais abaixo!
 
 - 📸 Instagram [(@fishixz)](https://www.instagram.com/fishixz)
-- 👨‍💻 Twitter [(@fishixz)](https://twitter.com/fishixz)
+- 👨‍💻 Twitter [(@fishixzx)](https://twitter.com/fishixzx)
 - 🖇️ Tiktok [(@edyxluis)](https://www.tiktok.com/@edyxluis)
