@@ -21,7 +21,7 @@
 
 ## sobre mim
 
-Sou o Fishixz (Edy Luiz), desenvolvedor independente e builder de software. Minha forma de aprender é transformar uma ideia em algo que roda de verdade: interface, API, dados, integração, automação, deploy e manutenção.
+Sou o Fishixz (Luis), desenvolvedor independente e builder de software. Minha forma de aprender é transformar uma ideia em algo que roda de verdade: interface, API, dados, integração, automação, deploy e manutenção.
 
 Gosto de mexer em tudo e entender como as peças se conectam. Por isso, meus projetos vão de páginas web e protótipos rápidos a bots, plataformas educacionais, clientes Android, gamemodes SA-MP/open.mp, plugins nativos e ferramentas de infraestrutura.
 
